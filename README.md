@@ -1,2 +1,2 @@
-# html-css Link_Academy
+#Link_Academy
 Project for exercising
